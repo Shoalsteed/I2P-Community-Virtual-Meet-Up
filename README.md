@@ -1,6 +1,6 @@
 # Community-Meeting
 
-This is not related to the I2P java Dev meetings.
+This is not related to the I2P java Dev meetings. This is an I2P Community virtual meet up.
 
 A once a month opportunity to discuss network infrastructure support, new applications and get to know people in the community.
 
