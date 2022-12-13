@@ -1,4 +1,4 @@
-# Community-Meeting
+# I2P Community Virtual Meet Up 
 
 This is not related to the I2P java Dev meetings. This is an I2P Community virtual meet up.
 
