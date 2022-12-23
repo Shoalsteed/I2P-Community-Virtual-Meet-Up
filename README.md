@@ -32,7 +32,7 @@ This is not an opportunity to create division between distributions or other pri
 - Please provide a brief description of your proposed talk, and any privacy preferences since we will be providing blog posts and sharing to social media.
 
 - Provide any additional information ( bio) if you would like too. 
-- 
+
 - It should include a link to your Github/lab repo if you are presenting work or research. 
 
 - It should let us know if you will be using screen sharing. 
