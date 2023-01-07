@@ -11,11 +11,11 @@ It is also an opportunity to discuss the I2P technology in terms of its interope
 
 **Time**: 19:30 - 19:30 CET, 1pm - 1:30pm EST
 
-**Deadline for presenting** : January 11th, 2023
+**Deadline for presenting** : 9th, of the decided month 2023
 
 **Recording of the event**: TBD/ Optional
 
-**Platform**: Jitsi
+**Platform**: Jitsi/ depends on number of participants to ensure quality. 
 
 **House Rules For All Participants**
 
