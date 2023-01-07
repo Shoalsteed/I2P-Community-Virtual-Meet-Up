@@ -7,7 +7,7 @@ This is once a month opportunity to discuss network infrastructure support, new 
 It is also an opportunity to discuss the I2P technology in terms of its interoperability with other privacy projects, and to invite people who provide digital security training to participate in learning more and helping to shape developemnt and provide insight for use cases and development focus. 
 
 
-**Event**: January 18th, 2023
+**Event**: TBD 18th, 2023
 
 **Time**: 19:30 - 19:30 CET, 1pm - 1:30pm EST
 
@@ -19,7 +19,7 @@ It is also an opportunity to discuss the I2P technology in terms of its interope
 
 **House Rules For All Participants**
 
-Only 100% Open Source work and research.
+Only 100% Free Open Source work and research. No Licence, no source code, no inclusion.
 Be courteous.
 Be considerate.
 Be constructive.
